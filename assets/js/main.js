@@ -1,10 +1,3 @@
-/* ===================================================================
-    
-		Theme Name:  Wokoya | Personal Portfolio vCard HTML Template
-		Author: Themetum
-		Version: 1.0
-    
-* ================================================================= */
 jQuery(document).ready(function(){ 
 
 	"use strict";
